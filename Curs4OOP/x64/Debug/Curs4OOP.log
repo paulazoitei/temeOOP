@@ -1,0 +1,29 @@
+﻿  Curs4OOP.cpp
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(27,16): error C2248: 'String::text': cannot access private member declared in class 'String'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(6,8): message : see declaration of 'String::text'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(5,7): message : see declaration of 'String'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(27,2): error C3861: 'CopyString': identifier not found
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(28,57): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(28,63): error C2065: 'text': undeclared identifier
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(28,78): error C2248: 'String::text': cannot access private member declared in class 'String'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(6,8): message : see declaration of 'String::text'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(5,7): message : see declaration of 'String'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,7): error C2143: syntax error: missing ';' before '&'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,1): error C2373: 'String': redefinition; different type modifiers
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(26,1): message : see declaration of 'String'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,33): error C2143: syntax error: missing ',' before '&'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,40): error C2801: 'operator =' must be a non-static member
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,40): error C2059: syntax error: '{'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,40): error C2143: syntax error: missing ';' before '{'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(30,40): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(40,1): error C2059: syntax error: '}'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(40,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(42,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(42,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(51,9): error C2146: syntax error: missing ';' before identifier 's'
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(51,9): error C3861: 's': identifier not found
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(52,2): error C2065: 's': undeclared identifier
+C:\Users\Paul\source\repos\Curs4OOP\Curs4OOP\Curs4OOP.cpp(52,6): error C3861: 'Get': identifier not found
